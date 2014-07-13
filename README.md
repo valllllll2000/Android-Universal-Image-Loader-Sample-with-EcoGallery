@@ -1,4 +1,4 @@
-Simple example testing usage of EcoGallery with Android-Universal-Image-Loader
+Simple example testing usage of EcoGallery with Android-Universal-Image-Loader sample project
 
 All credit to orginal creators of the libraries:
 
